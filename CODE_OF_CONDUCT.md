@@ -1,5 +1,4 @@
-# FreeCAD Project Code of Conduct
-
+# FreeCAD Project Code of yo
 ## Statement
 
 The FreeCAD Project community covers people from a wide variety of countries,
